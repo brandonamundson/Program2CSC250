@@ -31,6 +31,4 @@ private:
     node *headptr;
 };
 
-bool openFiles(char *argv[], ifstream &fin, ofstream &fout);
-
 #endif
