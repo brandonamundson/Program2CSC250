@@ -24,6 +24,9 @@
     <ClCompile Include="Brandon.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Sam.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="linklist.h">
