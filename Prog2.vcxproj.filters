@@ -21,6 +21,9 @@
     <ClCompile Include="linklist.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Brandon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="linklist.h">

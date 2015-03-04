@@ -78,6 +78,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Brandon.cpp" />
     <ClCompile Include="linklist.cpp" />
     <ClCompile Include="prog1.cpp" />
   </ItemGroup>
