@@ -27,6 +27,12 @@
     <ClCompile Include="Sam.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Cody.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Crawford.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="linklist.h">

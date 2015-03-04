@@ -79,6 +79,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Brandon.cpp" />
+    <ClCompile Include="Cody.cpp" />
+    <ClCompile Include="Crawford.cpp" />
     <ClCompile Include="linklist.cpp" />
     <ClCompile Include="prog1.cpp" />
     <ClCompile Include="Sam.cpp" />
