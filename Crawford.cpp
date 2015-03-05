@@ -1,18 +1,9 @@
 
 #include "linklist.h"
 //writing find and size
-LinkList::LinkList()
-{
-	headptr = nullptr;
-}
-
-LinkList::~LinkList()
-{
-	//destructor if anything needs to happen
-}
  bool LinkList::find(string word)
  {
-	 node *temp = nullptr;
+	 node *temp = nullptr; //Crawford you need to import headptr into temp and not nullptr and all your functions will work :) - Sam
 
 	 while (temp != nullptr)
 	 {
