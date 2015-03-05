@@ -55,9 +55,9 @@ bool openFiles(char *argv[], ifstream &fin, ofstream &fout)
 
 string removePunc(string temp)
 {
-    int i;
+    unsigned int i;
     //transform(temp.begin(), temp.end(), temp.begin(), tolower);
-    for (i = 0; i < temp.size; i++)
+    for (i = 0; i < temp.size(); i++)
     {
         temp[i] = tolower(temp[i]);
         if ((temp[i] < 97 && temp[i] > 122) ||

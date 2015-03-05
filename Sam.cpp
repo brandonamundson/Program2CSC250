@@ -1,13 +1,23 @@
 #include "linklist.h"
 
+LinkList::LinkList()
+{
+    headptr = nullptr;
+}
+
+LinkList::~LinkList()
+{
+    //destructor if anything needs to happen
+}
+
 bool  LinkList::incrementFrequency(string word)
 {
-    LinkList::node *temp = LinkList::headptr;
+    node *temp = headptr;
     while (temp != nullptr)
     {
-        if (temp->word == word)
+        if (word.compare(temp->word) == 0)
         {
-            temp->frequencyCount == temp->frequencyCount + 1;
+            temp->frequencyCount = temp->frequencyCount + 1;
             return true;
         }
         else
@@ -19,7 +29,7 @@ bool  LinkList::incrementFrequency(string word)
 
 void  LinkList::print(ostream &out)
 {
-    LinkList::node *temp = LinkList::headptr;
+    node *temp = headptr;
     //int max = LinkList::getMaxFrequency();
     bool header = true;
     int count = 0;
