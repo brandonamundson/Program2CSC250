@@ -26,3 +26,17 @@ LinkList::~LinkList()
 	 }
 	 return false;
  }
+
+ int LinkList::size()
+ {
+	 node *temp = nullptr;
+	 int count = 0;
+
+	 while (temp != nullptr)
+	 {
+		 count++;
+		 temp->next;
+	 }
+
+	 return count;
+ }
