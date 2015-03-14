@@ -1,5 +1,4 @@
 #include "linklist.h"
-//still need to do getMaxFrequency
 
 bool LinkList::remove(string word)
 {
@@ -27,3 +26,20 @@ bool LinkList::remove(string word)
 }
 
 
+int LinkList::getMaxFrequency()
+{
+    node *curr = headptr;
+    int max = 0;
+
+    while (curr != nullptr)
+    {
+        if (curr->frequencyCount >= max)
+        {
+            max = curr->frequencyCount;
+            curr->next;
+        }
+        else
+            curr = curr->next;
+    }
+    return max;
+}
