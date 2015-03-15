@@ -20,17 +20,17 @@ bool  LinkList::incrementFrequency(string word)
 void  LinkList::print(ostream &out)
 {
     node *temp = headptr;
-    //int max = LinkList::getMaxFrequency();
+    int max = LinkList::getMaxFrequency();
     bool header = true;
     int count = 0;
-    //Need to add a way to orginize them. Thinking about calling max frequencies and then only ouput ones that match that
-    //then going to decrement from there code will be commented out until the code for max frequencies is done
+    /*
     while (temp != nullptr)
     {
         out << temp->word << " - " << temp->frequencyCount << endl;
         temp = temp->next;
     }
-    /*
+    */
+    
     //All formated code ready to go once getMaxFrequency is coded also uncomment int max!
     while (max != 0)
     {
@@ -60,5 +60,4 @@ void  LinkList::print(ostream &out)
         }
         max--;
     }
-    */
 }
