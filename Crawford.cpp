@@ -3,7 +3,7 @@
 //writing find and size
  bool LinkList::find(string word)
  {
-	 node *temp = nullptr; //Crawford you need to import headptr into temp and not nullptr and all your functions will work :) - Sam
+	 node *temp = headptr; 
 
 	 while (temp != nullptr)
 	 {
@@ -20,7 +20,7 @@
 
  /*int LinkList::size()			 // commented this out to give the people above me a chance to finish up 
  {								 // insert and remove and test without this causing issues. 
-	 node *temp = nullptr;		 // go ahead and remove this if you wish to test and such 	
+	 node *temp = headprt;		 // go ahead and remove this if you wish to test and such 	
 	 int count = 0;
 
 	 while (temp != nullptr)
