@@ -20,7 +20,7 @@
 
  /*int LinkList::size()			 // commented this out to give the people above me a chance to finish up 
  {								 // insert and remove and test without this causing issues. 
-	 node *temp = headprt;		 // go ahead and remove this if you wish to test and such 	
+	 node *temp = headptr;		 // go ahead and remove this if you wish to test and such 	
 	 int count = 0;
 
 	 while (temp != nullptr)
