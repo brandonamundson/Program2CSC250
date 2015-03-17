@@ -55,11 +55,11 @@ bool openFiles(char *argv[], ifstream &fin, ofstream &fout)
 
 string removePunc(string temp)
 {
-    unsigned int i;
+    int i;
     int size;
     size = temp.size();
     //transform(temp.begin(), temp.end(), temp.begin(), tolower);
-    for (i = size; i > 0; i--)
+    for (i = 0; i < size; i++)
     {
         temp[i] = tolower(temp[i]);
         if (isalnum(temp[i]) || temp[i] == 39)
@@ -69,7 +69,8 @@ string removePunc(string temp)
         else 
         {
             temp.erase(i, 1);
-            //size = temp.size();
+            size = temp.size();
+            i = i - 1;
         }
 
     }
