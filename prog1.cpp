@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
                 temp = removePunc(temp);
                 if (!list.incrementFrequency(temp))
                 {
-                    //list.insert(temp); //Call insert only if the increment fails because the word doesnt exist yet
+                    list.insert(temp); //Call insert only if the increment fails because the word doesnt exist yet
                 }
             }
             list.print(fout);
@@ -56,15 +56,20 @@ bool openFiles(char *argv[], ifstream &fin, ofstream &fout)
 string removePunc(string temp)
 {
     unsigned int i;
+    int size;
+    size = temp.size();
     //transform(temp.begin(), temp.end(), temp.begin(), tolower);
-    for (i = 0; i < temp.size(); i++)
+    for (i = size; i > 0; i--)
     {
         temp[i] = tolower(temp[i]);
-        if ((temp[i] < 97 && temp[i] > 122) ||
-            (temp[i] < 48 && temp[i] > 57) ||
-            (temp[i] != 39))
+        if (isalnum(temp[i]) || temp[i] == 39)
+        {
+
+        }
+        else 
         {
             temp.erase(i, 1);
+            //size = temp.size();
         }
 
     }

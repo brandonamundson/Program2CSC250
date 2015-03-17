@@ -36,7 +36,7 @@ int LinkList::getMaxFrequency()
         if (curr->frequencyCount >= max)
         {
             max = curr->frequencyCount;
-            curr->next;
+            curr = curr->next;
         }
         else
             curr = curr->next;
