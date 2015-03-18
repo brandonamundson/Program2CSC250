@@ -53,7 +53,7 @@ void  LinkList::print(ostream &out)
         max--;
     }
 }
-
+/*
 bool LinkList::insert(string word) 
 {
     node *temp = new node;
@@ -78,3 +78,4 @@ bool LinkList::insert(string word)
         return true;
     }
 }
+*/
