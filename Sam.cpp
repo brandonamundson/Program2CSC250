@@ -27,6 +27,7 @@ void  LinkList::print(ostream &out)
     {
         temp = headptr;
         header = true;
+        count = 0;
         while (temp != nullptr)
         {
             if (temp->frequencyCount == max){
