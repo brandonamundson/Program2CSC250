@@ -1,3 +1,7 @@
+/*************************************************************************//**
+ * @file
+ *****************************************************************************/
+
 #include <iostream>
 #include <fstream>
 #include <string>
@@ -22,11 +26,16 @@ public:
     void print(ostream &out);
 
 private:
+
+    /*!
+    * @brief Holds word and frequency count
+    */
+
     struct node
     {
-        int frequencyCount;
-        string word;
-        node *next;
+        int frequencyCount; /*!< Frequency count */
+        string word; /*!< Word of the node */
+        node *next; /*!< Next word in the list*/
     };
     node *headptr;
 };

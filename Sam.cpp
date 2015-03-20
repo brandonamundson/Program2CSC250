@@ -1,5 +1,18 @@
 #include "linklist.h"
 
+/**************************************************************************//**
+ * @author Samuel Patzer
+ *
+ * @par Description:
+ * This function gets in a word and then searchs for the word in the list. If
+ * the word is found it will increment the frequency by one and return true.
+ * If the word is not found it will return false.
+ *
+ * @param[in]     word - a word to search for and increment the frequency of.
+ *
+ * @returns true if the word is found and it increases the frequency by one
+ * @returns false if the word is not found
+ *****************************************************************************/
 bool  LinkList::incrementFrequency(string word)
 {
     node *temp = headptr;
@@ -16,6 +29,17 @@ bool  LinkList::incrementFrequency(string word)
     }
     return false;
 }
+
+/**************************************************************************//**
+ * @author Samuel Patzer
+ *
+ * @par Description:
+ * This function print the list out to an output file provided by the user.
+ * It also formats and addes headers to each frequency to easily read the list.
+ *
+ * @param[in, out]     out - the output file provided by the user
+ *
+ *****************************************************************************/
 
 void  LinkList::print(ostream &out)
 {
@@ -54,29 +78,3 @@ void  LinkList::print(ostream &out)
         max--;
     }
 }
-/*
-bool LinkList::insert(string word) 
-{
-    node *temp = new node;
-    node *temp2;
-    temp->frequencyCount = 1;
-    temp->word = word;
-    temp->next = nullptr;
-
-    if (headptr == nullptr)
-    {
-        headptr = temp;
-        return true;
-    }
-    else 
-    {
-        temp2 = headptr;
-        while (temp2->next != nullptr)
-        {
-            temp2 = temp2->next;
-        }
-        temp2->next = temp;
-        return true;
-    }
-}
-*/
