@@ -18,7 +18,7 @@
 	 return false;
  }
 
- /*int LinkList::size()			 // commented this out to give the people above me a chance to finish up 
+ int LinkList::size()			 // commented this out to give the people above me a chance to finish up 
  {								 // insert and remove and test without this causing issues. 
 	 node *temp = headptr;		 // go ahead and remove this if you wish to test and such 	
 	 int count = 0;
@@ -30,4 +30,4 @@
 	 }
 
 	 return count;
- }*/
+ }
