@@ -20,7 +20,15 @@
  *
  * @section program_section Program Information 
  * 
- * @details NEEEDS TO BE DONE!!!!
+ * @details A program to help book editors and authors to view the Frequency of
+ * the words they used in their short stories. The editors beleive that truly
+ * good short stories use very few words over and over. So using the program 
+ * will help the editors will prove that this is true or not and the authors can
+ * use it to avoid using the same word to many times. The program will take in a
+ * short story and then will read in word by word and remove puncuation and check
+ * to see if the word exists and if it does it increases the frequency otherwise
+ * it adds the word to the list. Once it parses the document it will output a 
+ * list with the frequency and then words with that frequency.
  *
  *
  * @section compile_section Compiling and Usage 
