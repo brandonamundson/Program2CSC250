@@ -1,6 +1,18 @@
 
 #include "linklist.h"
-//writing find and size
+/**************************************************************************//**
+* @author Alexander Crawford
+*
+* @par Description:
+* This function takes in a word and searches the list for the word.  If the 
+* word is found the function will return true, else the function returns
+* false.  
+*
+* @param[in]     word - a word to search for.
+*
+* @returns true if the word is found
+* @returns false if the word is not found
+*****************************************************************************/
  bool LinkList::find(string word)
  {
 	 node *temp = headptr; 
@@ -17,10 +29,20 @@
 	 }
 	 return false;
  }
-
- int LinkList::size()			 // commented this out to give the people above me a chance to finish up 
- {								 // insert and remove and test without this causing issues. 
-	 node *temp = headptr;		 // go ahead and remove this if you wish to test and such 	
+ /**************************************************************************//**
+* @author Alexander Crawford
+*
+* @par Description:
+* This function will go through the list of words and count the amount
+* of words in the list.  The function will then return count when it is 
+* finished.  
+*
+*
+* @returns count - the number of words in the list.  
+*****************************************************************************/
+ int LinkList::size()			 
+ {								 
+	 node *temp = headptr;	
 	 int count = 0;
 
 	 while (temp != nullptr)
