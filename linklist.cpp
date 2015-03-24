@@ -4,11 +4,24 @@
 
 #include "linklist.h"
 
+/**************************************************************************//**
+ * @author Samuel Patzer
+ *
+ * @par Description:
+ * This function creates/starts the list by setting the link list to nullptr
+ *
+ *****************************************************************************/
 LinkList::LinkList()
 {
     headptr = nullptr;
 }
-
+/**************************************************************************//**
+ * @author Samuel Patzer
+ *
+ * @par Description:
+ * This function deletes every member of the linked list.
+ *
+ *****************************************************************************/
 LinkList::~LinkList()
 {
     node *temp = headptr;
