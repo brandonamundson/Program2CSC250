@@ -106,19 +106,19 @@ int LinkList::getMaxFrequency()
 *****************************************************************************/
  bool LinkList::find(string word)
  {
-	 node *temp = headptr; 
+     node *temp = headptr; 
 
-	 while (temp != nullptr)
-	 {
-		 if (word.compare(temp->word) == 0)
-		 {
-			 return true;
-		 }
-		 else
-			 temp = temp->next;
+     while (temp != nullptr)
+     {
+         if (word.compare(temp->word) == 0)
+         {
+             return true;
+         }
+         else
+             temp = temp->next;
 
-	 }
-	 return false;
+     }
+     return false;
  }
 
  /**************************************************************************//**
@@ -134,16 +134,16 @@ int LinkList::getMaxFrequency()
 *****************************************************************************/
  int LinkList::size()			 
  {								 
-	 node *temp = headptr;	
-	 int count = 0;
+     node *temp = headptr;	
+     int count = 0;
 
-	 while (temp != nullptr)
-	 {
-		 count++;
-		 temp = temp->next;
-	 }
+     while (temp != nullptr)
+     {
+         count++;
+         temp = temp->next;
+     }
 
-	 return count;
+     return count;
  }
 
  /**************************************************************************//**
