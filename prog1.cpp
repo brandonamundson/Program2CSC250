@@ -5,7 +5,7 @@
  * 
  * @section course_section Course Information 
  *
- * @author Samuel Patzer
+ * @author Samuel Patzer, Cody Ortega, Brandon Amudson, Alex Crawford, 
  * 
  * @date 2/27/2015
  * 
