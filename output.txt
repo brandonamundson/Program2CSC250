@@ -1,220 +1,260 @@
 
 **********************************************************
-		 Frequency of 82
+		 Frequency of 212
 **********************************************************
 the	
 **********************************************************
-		 Frequency of 35
+		 Frequency of 140
 **********************************************************
 and	
 **********************************************************
-		 Frequency of 34
+		 Frequency of 87
 **********************************************************
-a	
+her	
 **********************************************************
-		 Frequency of 32
+		 Frequency of 82
 **********************************************************
 to	
 **********************************************************
-		 Frequency of 25
+		 Frequency of 57
 **********************************************************
-he	
+she	
 **********************************************************
-		 Frequency of 24
-**********************************************************
-was	
-**********************************************************
-		 Frequency of 23
-**********************************************************
-in	
-**********************************************************
-		 Frequency of 21
-**********************************************************
-of	
-**********************************************************
-		 Frequency of 19
-**********************************************************
-for	her	his	
-**********************************************************
-		 Frequency of 18
-**********************************************************
-it	she	
-**********************************************************
-		 Frequency of 17
-**********************************************************
-beauty	i	
-**********************************************************
-		 Frequency of 16
+		 Frequency of 36
 **********************************************************
 had	
 **********************************************************
+		 Frequency of 34
+**********************************************************
+they	you	
+**********************************************************
+		 Frequency of 31
+**********************************************************
+he	with	
+**********************************************************
+		 Frequency of 30
+**********************************************************
+in	
+**********************************************************
+		 Frequency of 27
+**********************************************************
+cinderella	on	
+**********************************************************
+		 Frequency of 26
+**********************************************************
+into	was	
+**********************************************************
+		 Frequency of 25
+**********************************************************
+a	it	
+**********************************************************
+		 Frequency of 23
+**********************************************************
+for	out	that	
+**********************************************************
+		 Frequency of 21
+**********************************************************
+when	
+**********************************************************
+		 Frequency of 20
+**********************************************************
+pick	said	then	
+**********************************************************
+		 Frequency of 18
+**********************************************************
+prince	tree	
+**********************************************************
+		 Frequency of 17
+**********************************************************
+one	
+**********************************************************
+		 Frequency of 16
+**********************************************************
+came	down	go	this
+
+**********************************************************
 		 Frequency of 15
 **********************************************************
-beast	
+no	of	shoe	two
+went	
 **********************************************************
 		 Frequency of 14
 **********************************************************
-at	you	
+him	
 **********************************************************
 		 Frequency of 13
 **********************************************************
-as	me	merchant	that
+but	his	is	took
 
 **********************************************************
 		 Frequency of 12
 **********************************************************
-on	
+all	be	beautiful	from
+them	
+**********************************************************
+		 Frequency of 11
+**********************************************************
+as	dance	girl	not
+pigeons	
 **********************************************************
 		 Frequency of 10
 **********************************************************
-but	castle	my	
+again	ashes	at	bride
+were	
+**********************************************************
+		 Frequency of 9
+**********************************************************
+away	festival	have	hazel
+home	right	stepmother	would
+
 **********************************************************
 		 Frequency of 8
 **********************************************************
-one	your	
+dress	foot	me	off
+so	there	too	
 **********************************************************
 		 Frequency of 7
 **********************************************************
-rose	so	when	
+bird	good	grave	will
+
 **********************************************************
 		 Frequency of 6
 **********************************************************
-all	an	by	daughter
-i'll	into	life	
+back	began	beneath	clothes
+could	day	di	gave
+gold	goo	how	kitchen
+my	rook	white	your
+
 **********************************************************
 		 Frequency of 5
 **********************************************************
-back	could	day	father
-him	not	said	then
-there	went	with	would
-
+are	asked	by	called
+cried	cut	danced	evening
+father	horse	however	little
+looked	only	other	side
+silver	sisters	their	thought
+through	until	wife	
 **********************************************************
 		 Frequency of 4
 **********************************************************
-after	bed	days	did
-don't	from	hours	however
-is	kind	only	say
-this	up	
+an	around	before	birds
+blood	coop	did	else
+i	jumped	know	left
+lentils	man	mother	mother's
+now	ones	our	passed
+pigeon	sky	throw	turned
+turtledoves	twig	up	us
+wanted	wept	what	
 **********************************************************
 		 Frequency of 3
 **********************************************************
-again	asked	be	before
-calling	die	do	down
-end	garden	girl	good
-happy	head	herself	home
-horse	how	i'd	if
-its	late	leave	like
-marry	no	now	off
-place	promise	swear	time
-too	will	words	
+bad	because	bowl	bowls
+dirty	do	don't	dressed
+every	everyone	false	finally
+first	flew	garden	golden
+gone	gray	hand	happy
+heel	hour	house	if
+lit	magnificent	never	older
+others	partner	put	quickly
+quiver	ran	rode	say
+shake	shoes	should	sitting
+smock	stepdaughters	stepsisters	taken
+thinking	threw	tight	toe
+waited	want	whenever	
 **********************************************************
 		 Frequency of 2
 **********************************************************
-able	anything	away	beast's
-been	began	beside	bring
-came	come	daughters	death
-dying	eyes	family	feel
-fell	fire	first	forgive
-found	greet	heart	himself
-hope	hugged	hurry	ill
-immediately	last	lay	led
-light	love	made	magic
-magnificent	man	mirror	moment
-monster	never	night	nobody
-nothing	out	own	promised
-put	quite	ran	reached
-really	return	rooms	sat
-saw	see	set	seven
-shall	shelter	sight	splendid
-still	suddenly	table	thank
-them	though	three	threw
-took	towards	turned	ugly
-well	what	where	woke
-you'll	you've	young	
+able	against	allowed	also
+always	another	anyone	astonished
+ax	became	bedroom	break
+bring	brought	cannot	church
+climbed	come	crop	daughter
+daughters	dear	dirt	door
+dresses	each	eluded	escort
+eye	face	fair	finished
+forced	gather	gathered	get
+going	got	grains	grew
+happened	has	hat	heads
+help	herself	himself	invited
+jewels	knife	leave	longer
+look	lying	may	more
+morning	much	near	next
+nodded	old	pain	parents
+pearls	pecked	piece	pious
+pitch	pot	princess	proud
+pure	queen	remained	running
+sat	saw	saying	scattered
+see	sister	sit	slipper
+slippers	small	stood	swallowed
+swarming	tame	than	there's
+three	time	times	told
+try	unknown	walked	wanting
+way	we	which	whirring
+who	window	wooden	yet
+younger	
 **********************************************************
 		 Frequency of 1
 **********************************************************
-abrupt	accept	accompanied	actually
-adventure	afraid	agony	already
-always	amazed	angrily	are
-arrive	asleep	ate	attention
-attract	awful	bathed	became
-bedside	beginning	being	bent
-blew	bloodshot	breakfast	bright
-brocade	broken	bush	business
-can	can't	caught	certain
-clamped	close	clothes	coffee
-cold	completely	condition	conversation
-corridor	couldn't	courage	crackled
-crouched	curiosity	dead	dear
-dearest	deep	delight	describing
-dinner	discover	distance	distant
-done	doom	door	doubt
-downstairs	dreadful	dreamt	dress
-drew	dropped	drove	each
-embraced	embroidering	enjoying	evening
-evil	explaining	eye	face
-faced	fading	failed	fallen
-far	fast	father's	favourite
-fear	feelings	feet	few
-find	finest	finished	flashed
-flowers	friends	frightened	frightful
-front	fruit	further	gale
-gardens	gave	gazing	generous
-gesture	get	gift	glared
-gleaming	go	gone	gradually
-gravely	greeting	growled	hall
-halls	hand	handsome	hardly
-have	headway	hearty	here
-horrible	horror	host	howling
-hurt	i'm	i've	inn
-inside	instead	interrupted	inviting
-it's	journey	keep	kept
-kill	kindly	knees	know
-knowing	known	large	later
-left	let	lingered	little
-lnstantly	lonely	longing	looked
-lost	loving	magically	maiden
-main	make	market	meal
-menacing	middle	might	mind
-miracle	monster's	morning	mouth
-much	mug	name	near
-necklace	next	nightmare	notice
-noticed	obey	offended	oh
-once	onwards	open	overcome
-owed	owner	passed	past
-paw	pearl	peeped	pick
-picked	placed	pleading	pleasant
-plucking	present	presented	prettiest
-prince	prisoner	rage	rather
-reaching	real	reality	recovery
-refusal	remembered	remembering	reply
-resist	rest	returned	road
-room	roses	rushed	save
-saving	second	secret	self
-served	shakily	shaking	shining
-shook	short	shortly	shouted
-shouting	shuddered	shut	silence
-silently	sit	slept	slight
-snout	soft	solem	solemnly
-some	soon	spare	specially
-spite	spoke	sprang	stairs
-stalked	stared	started	starving
-stay	stayed	steaming	steed
-storm	strangeness	such	sudden
-suffering	surprise	surprisingly	sweetest
-take	taken	tears	tell
-terrible	terrifying	terrorstricken	tethered
-thanks	that's	theft	these
-third	tidying	tightly	till
-told	transform	tree	trembling
-twisting	two	understand	unexpected
-ungrateful	unhappy	unknown	upon
-upstairs	usual	ventured	very
-visit	voice	want	wanted
-wasn't	wearing	weary	wedding
-weeping	were	what's	whipping
-who	whose	why	wife
-willing	wish	witch	won't
-wonder	wood	worried	worry
-wrong	yes	youngest	
+after	afterwards	allow	along
+anew	anger	answered	any
+apart	appeared	approached	arrived
+arriving	ashamed	asking	beauty
+bed	bedside	been	begged
+behind	believe	belonged	besides
+big	blindness	blood's	both
+bought	bowed	branch	branches
+bread	bridal	broke	brush
+brushed	brushes	buckles	burning
+bush	call	can	carry
+castle	child	cinderella's	clean
+closed	cloth	comb	coming
+cook	couple	covered	cry
+crying	dainty	dark	daybreak
+days	decked	deformed	died
+dim	drawing	dust	dusty
+earn	eat	either	embroidered
+end	entire	even	everything
+evil	except	expressed	eyes
+faces	falsehood	fasten	favor
+feet	fell	felt	fireplace
+fires	fits	fitted	follow
+followed	foreign	fortune	fun
+furthermore	gain	girls	god
+goose	green	hair	half
+hands	hard	hardly	hear
+heard	hearth	hearts	heaven
+heavy	held	high	horrified
+hours	hung	hurried	hurt
+imaginable	immediately	inside	insisted
+instead	it's	just	kept
+king	king's	knocked	laid
+land	large	last	laugh
+laughed	led	let	liked
+lived	long	looking	made
+maid	make	man's	most
+must	neither	nimbly	nor
+obeyed	oh	oillamp	once
+onto	over	pale	parlor
+past	pear	pears	peas
+perfectly	picked	planted	poor
+possibly	prayed	preceding	pretty
+proclaimed	protect	pulled	punished
+recognize	recognized	red	remain
+removed	returned	rich	ride
+riding	run	seen	select
+send	set	shall	share
+shoe's	shoulders	shouted	sick
+silk	sleep	smeared	snow
+son	soon	spirits	splendid
+spread	spring	squirrel	stained
+stairs	stairway	standing	stepchild
+stocking	stool	stuck	stupid
+sun	tall	tears	thanked
+thicket	things	third	thus
+toes	trap	tried	true
+upon	use	usual	very
+wants	wash	washed	water
+watered	weary	wedding	where
+whom	whose	why	wickedness
+winter	wish	wished	work
+worked	young	
